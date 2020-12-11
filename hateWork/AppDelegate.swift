@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  hateWork
 //
-//  Created by Damon on 2020/12/2.
+//  Created by Serena on 2020/12/2.
 //
 
 import UIKit
